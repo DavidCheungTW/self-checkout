@@ -1,4 +1,4 @@
-const orange = {
+   const orange = {
     barcode: 789,
     price: 7,
    };
